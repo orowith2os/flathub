@@ -8,7 +8,7 @@
             "project-id": 1830,
             "stable-only": true,
             "versions": {
-                "<": "15.0.0"
+                "<": "16.0.0"
             },
             "url-template": "https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/llvm-project-$version.src.tar.xz",
             "is-main-source": true
